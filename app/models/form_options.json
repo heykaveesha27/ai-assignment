@@ -1,0 +1,60 @@
+{
+  "categorical": {
+    "Extracurricular_Activities": [
+      "No",
+      "Yes"
+    ]
+  },
+  "numeric_ranges": {
+    "Attendance (%)": {
+      "min": 50.01,
+      "max": 100.0,
+      "default": 75.4
+    },
+    "Midterm_Score": {
+      "min": 40.0,
+      "max": 99.99,
+      "default": 70.7
+    },
+    "Final_Score": {
+      "min": 40.01,
+      "max": 99.98,
+      "default": 69.5
+    },
+    "Assignments_Avg": {
+      "min": 50.0,
+      "max": 99.99,
+      "default": 75.0
+    },
+    "Quizzes_Avg": {
+      "min": 50.0,
+      "max": 99.99,
+      "default": 74.8
+    },
+    "Participation_Score": {
+      "min": 0.0,
+      "max": 100.0,
+      "default": 50.0
+    },
+    "Projects_Score": {
+      "min": 50.0,
+      "max": 100.0,
+      "default": 74.8
+    },
+    "Study_Hours_per_Week": {
+      "min": 5.0,
+      "max": 30.0,
+      "default": 17.5
+    },
+    "Stress_Level (1-10)": {
+      "min": 1.0,
+      "max": 10.0,
+      "default": 5.5
+    },
+    "Sleep_Hours_per_Night": {
+      "min": 4.0,
+      "max": 9.0,
+      "default": 6.5
+    }
+  }
+}
